@@ -1,0 +1,102 @@
+[
+  {
+    "id" : 1,
+    "name" : "Alice",
+    "Age" : 22,
+    "Gender" : "female",
+    "Subject" : ["Maths", "JS", "SQL"],
+    "item": [],
+    "title" : "Amazon Basics",
+    "price" : 410
+  },
+  {
+    "id" : 2,
+    "name" : "Rohit",
+    "Age" : 23,
+    "Gender" : "male",
+    "Subject" : ["JS", "SQL"],
+    "item": [],
+    "title" : "Amazon Basics",
+    "price" : 530
+  },
+  {
+    "id" : 3,
+    "name" : "Rohan",
+    "Age" : 20,
+    "Gender" : "male",
+    "Subject" : [ "JS", "SQL", "python"],
+    "item": [],
+    "title" : "Amazon Basics",
+    "price" : 640
+  },
+  {
+    "id" : 4,
+    "name" : "Soham",
+    "Age" : 27,
+    "Gender" : "male",
+    "Subject" : [ "python"],
+    "item": [],
+    "title" : "Amazon Basics",
+    "price" : 600
+  },
+  {
+    "id" : 5,
+    "name" : "Rakul",
+    "Age" : 21,
+    "Gender" : "male",
+    "Subject" : [ "JS", "SQL", "python"],
+    "item": [],
+    "title" : "Amazon Basics",
+    "price" : 820
+  },
+  {
+    "id" : 6,
+    "name" : "Raj Rohan",
+    "Age" : 23,
+    "Gender" : "male",
+    "Subject" : [ "JS", "SQL", "python"],
+    "item": [],
+    "title" : "Amazon Basics",
+    "price" : 680
+  },
+  {
+    "id" : 7,
+    "name" : "Rohan Nambiar",
+    "Age" : 23,
+    "Gender" : "male",
+    "Subject" : [ "JS", "SQL", "python"],
+    "item": [],
+    "title" : "Amazon Basics",
+    "price" : 250
+  },
+  {
+    "id" : 8,
+    "name" : "Rohan C",
+    "Age" : 23,
+    "Gender" : "male",
+    "Subject" : [ "JS", "SQL", "python"],
+    "item": [],
+    "title" : "Amazon Basics",
+    "price" : 390
+  },
+  {
+    "id" : 9,
+    "name" : "Rohan",
+    "Age" : 23,
+    "Gender" : "male",
+    "Subject" : [ "JS", "SQL", "python"],
+    "item": [],
+    "title" : "Amazon Basics",
+    "price" :400
+  },
+  {
+    "id" : 10,
+    "name" : "Rohan",
+    "Age" : 23,
+    "Gender" : "male",
+    "Subject" : [ "JS", "SQL", "python"],
+    "item": [],
+    "title" : "Amazon Basics",
+    "price" : 200
+  }
+]
