@@ -1,0 +1,28 @@
+.button {
+  padding: 10px;
+  font-weight: 600;
+  font-size: 30px;
+  background-color: brown;
+  color: aliceblue;
+  border-radius: 10px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.number {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 40px;
+}
+
+.disable {
+  background-color: gray;
+  opacity: 90%;
+  pointer-events: none;
+  font-weight: 200;
+}
