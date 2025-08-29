@@ -1,19 +1,13 @@
-# Hi 👋, I'm Abhirup Roy
+# hi
 
-## - Folder Content 👨‍💻
+## - Download This Folder (React Context)
 
-### React Router
-📄 Dynamic Route <br />
-📄 Lazy-Loading <br />
-📄 Route Context <br />
-📄 Static Route <br />
+### Step 1: npm install
 
-### React-Introduction
-📄
+### Step 2: npm run dev
 
-### Redux
+<img width="1127" height="471" alt="image" src="https://github.com/user-attachments/assets/667daa91-0658-4967-8468-7d8cb8551f79" />
 
-### useContext-Hook
-📄 Add-To-Cart
-📄 UseContext
+### On the Click of Increment Button
 
+<img width="1127" height="471" alt="image" src="https://github.com/user-attachments/assets/cd4ff4c2-9c56-4263-b10b-16c1acdd6bb6" />

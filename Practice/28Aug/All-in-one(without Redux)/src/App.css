@@ -1,0 +1,23 @@
+body {
+  overscroll-behavior: none;
+  padding: 5px;
+  background-color: rgb(8, 8, 46);
+}
+
+.container {
+  color: aliceblue;
+}
+
+#navBar {
+  margin-bottom: 3px;
+}
+
+#act-lst {
+  padding-top: 30px;
+}
+
+@media (max-width: 550px) {
+  #act-lst {
+    display: none;
+  }
+}
