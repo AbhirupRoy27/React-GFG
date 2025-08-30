@@ -1,21 +1,21 @@
 # Hi 👋, I'm Abhirup Roy
 
-## - Folder Content 👨‍💻
+## - 📂 Folder Content 👨‍💻
 
-### React Router
+### 📂 React Router
 
-📄 Dynamic Route <br />
-📄 Lazy-Loading <br />
-📄 Route Context <br />
-📄 Static Route <br />
+📂 Dynamic Route <br />
+📂 Lazy-Loading <br />
+📂 Route Context <br />
+📂 Static Route <br />
 
 ### React-Introduction
 
 📄
 
-### Redux
+### 📂 Redux
 
-### useContext-Hook
+### 📂 useContext-Hook
 
 📄 Add-To-Cart
 📄 UseContext
