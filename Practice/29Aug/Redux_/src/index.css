@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-color: rgb(3, 22, 42);
+  padding: 10px;
+}
+
+@media (max-width: 550px) {}

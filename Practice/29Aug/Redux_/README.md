@@ -1,4 +1,6 @@
-### For Practice of Redux (Store, Slice)
+### To-do list logic with REDUX
+
+<!-- ### For Practice of Redux (Store, Slice)
 
 - remove all the code from ((!)without reading)
   - /React-GFG/Practice/29Aug/Redux\_/src/Slice/slice.js
@@ -9,4 +11,4 @@
 ## now Re-Write the codes and make it work
 
 - maybe with names
-- maybe with count or anything
+- maybe with count or anything -->
