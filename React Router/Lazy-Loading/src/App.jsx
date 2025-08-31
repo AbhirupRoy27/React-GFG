@@ -3,8 +3,6 @@ import { useState } from 'react'
 import { Route, Routes } from 'react-router-dom'
 import { useNavigate } from 'react-router-dom'
 
-// ... other imports
-
 // Lazily import our new homepage
 const NewHomePage = lazy(() => import('./HomePage'))
 
@@ -26,7 +24,7 @@ function App() {
               />
             }
           />
-          {/* Add the route for our new lazy component */}
+          {/* the route for our new lazy component */}
           <Route
             path="/home"
             element={
