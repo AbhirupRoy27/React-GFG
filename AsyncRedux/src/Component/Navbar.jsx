@@ -4,15 +4,23 @@ import NewCount from './NewCount'
 const navlinks = [
   {
     id: 1,
-    link: 'Home',
+    name: 'Home',
+    link: '',
   },
   {
     id: 2,
+    name: 'About',
     link: 'About',
   },
   {
     id: 3,
+    name: 'Contact',
     link: 'Contact',
+  },
+  {
+    id: 4,
+    name: 'Async-REDUX',
+    link: 'Redux-async',
   },
 ]
 
@@ -23,7 +31,7 @@ export default function Navbar() {
     <div className="flex gap-4 bg-teal-500 p-4 font-semibold">
       {navlinks.map((p) => (
         <Link to={`${p.link}`} key={p.id} onClick={handleNavLink}>
-          {p.link}
+          {p.name}
         </Link>
       ))}
     </div>

@@ -8,7 +8,9 @@ export default function NewCount() {
 
   return (
     <div className="flex gap-2 flex-col text-center bg-teal-500 p-6 ">
-      <h2 className="font-extrabold text-4xl text-center "> New </h2>
+      <h2 className="font-extrabold text-4xl text-center text-green-700">
+        REDUX
+      </h2>
       <h1 className="font-semibold text-center text-2xl">Count: {count}</h1>
       <div className="flex gap-4 justify-center">
         <button
