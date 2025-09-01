@@ -1,0 +1,70 @@
+.product-card {
+  padding: 20px;
+  background-color: aliceblue;
+}
+
+.photo {
+  width: 400px;
+  height: 400px;
+  background-color: black;
+  box-shadow: 1px 1px 50px wheat inset;
+  border-radius: 10px;
+}
+
+.heading {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.heading h1 {
+  font-size: 25px;
+  padding: 10px;
+  background-color: aquamarine;
+}
+
+.heading h2 {
+  background-color: rgb(120, 143, 162);
+  padding: 10px;
+  border: 1px solid black;
+  width: 50px;
+  height: 50px;
+  color: aliceblue;
+  text-align: center;
+}
+
+.inc {
+  width: 40px;
+  height: 50px;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+.dsc {
+  width: 40px;
+  height: 50px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+h1 {
+  text-align: center;
+
+}
+
+.reset {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.reset h2 {
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  padding: 10px;
+  background-color: antiquewhite;
+  border-radius: 6px;
+  border: 1px solid rgb(228, 200, 164);
+}
