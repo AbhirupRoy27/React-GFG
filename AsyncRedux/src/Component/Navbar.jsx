@@ -22,6 +22,11 @@ const navlinks = [
     name: 'Async-REDUX',
     link: 'Redux-async',
   },
+  {
+    id: 5,
+    name: 'Break',
+    link: 'brocken-link',
+  },
 ]
 
 export default function Navbar() {

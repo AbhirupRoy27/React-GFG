@@ -1,0 +1,10 @@
+.About-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 94vh;
+}
+
+.About-container h1 {
+  font-size: 100px;
+}
