@@ -1,0 +1,56 @@
+.centerthisbox {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1.5rem
+}
+
+.counter {
+  width: 300px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 20px;
+  background-color: rgba(178, 77, 77, 0.686);
+  border-radius: 4px;
+  box-shadow: 1px 1px 20px rgba(145, 94, 94, 0.968);
+}
+
+.increase {
+  width: 105px;
+  border: 0;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: rgba(250, 235, 215, 0.814);
+  box-shadow: 1px 1px 10px rgba(145, 94, 94, 0.968);
+  font-weight: 600;
+}
+
+.increase:active {
+  box-shadow: 0 0 10px black;
+}
+
+.bottons {
+  display: flex;
+  gap: 1rem
+}
+
+.changeTen {
+  display: flex;
+  gap: 2rem;
+}
+
+.changeTenColor {
+  background-color: rgb(180, 110, 110);
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.changeTen :active {
+  box-shadow: 0 0 10px black;
+}
