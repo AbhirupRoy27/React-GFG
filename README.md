@@ -1,23 +1,24 @@
 # Hi 👋, I'm Abhirup Roy
 
-## - 📂 This Folder Content 👨‍💻
+## 📂 This Folder Content 👨‍💻
 
-## 📂 AsyncRedux
+### 📂 AsyncRedux
+- Project using Async Redux
 
-## 📂 React Router
+### 📂 React Router
 
-- ### 📂 Dynamic Route
-- ### 📂 Lazy-Loading
-- ### 📂 Route Context
-- ### 📂 Static Route
+- 📂 Dynamic Route
+- 📂 Lazy-Loading
+- 📂 Route Context
+- 📂 Static Route
 
-## React-Introduction
+### React-Introduction
 
 - 📄 Readme from GFG
 
-## 📂 Redux
+### 📂 Redux
 
-## 📂 useContext-Hook
+### 📂 useContext-Hook
 
 - 📄 Add-To-Cart
 - 📄 UseContext
