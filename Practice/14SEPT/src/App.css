@@ -1,0 +1,35 @@
+.App {
+  width: 100vw;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ gap: 20px;
+ padding: 20px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 10px
+}
+
+
+.lst-jobs {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  column-gap: 1.5rem;
+  row-gap: 1rem;
+
+}
+
+@media (max-width: 430px){
+  .lst-jobs{
+    display: flex;
+    flex-direction: column;
+    
+  }
+}

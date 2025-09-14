@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Full-time",
+    "name": "React Developer",
+    "id": 10,
+    "jd": "Needed React Developer",
+    "details": "We’re seeking a React Developer to build and maintain dynamic, responsive web applications. The ideal candidate has strong proficiency in JavaScript, React, and front-end frameworks, with a keen eye for UI/UX. You'll collaborate with cross-functional teams to deliver high-quality code and innovative features in an agile environment.",
+    "apply": "Apply"
+  },
+    {
+    "type": "Part-time",
+    "name": "Ml Engineer",
+    "id": 20,
+    "jd": "Needed ML Developer",
+    "details": "We’re seeking a React Developer to build and maintain dynamic, responsive web applications. The ideal candidate has strong proficiency in JavaScript, React, and front-end frameworks, with a keen eye for UI/UX. You'll collaborate with cross-functional teams to deliver high-quality code and innovative features in an agile environment.",
+    "apply": "Easy Apply"
+  },
+    {
+    "type": "Full-time",
+    "name": "Software Enginner",
+    "id": 30,
+    "jd": "Needed Java Sotware Developer" ,
+    "details": "We’re seeking a React Developer to build and maintain dynamic, responsive web applications. The ideal candidate has strong proficiency in JavaScript, React, and front-end frameworks, with a keen eye for UI/UX. You'll collaborate with cross-functional teams to deliver high-quality code and innovative features in an agile environment.",
+    "apply": "Easy Apply"
+  },
+    {
+    "type": "Internship",
+    "name": "Data Analist",
+    "id": 40 ,
+    "details": "We’re seeking a React Developer to build and maintain dynamic, responsive web applications. The ideal candidate has strong proficiency in JavaScript, React, and front-end frameworks, with a keen eye for UI/UX. You'll collaborate with cross-functional teams to deliver high-quality code and innovative features in an agile environment.",
+    "apply": " Apply"
+  },
+    {
+    "type": "Full-time",
+    "name": "Software Enginner 3",
+    "id": 50 ,
+    "details": "We’re seeking a React Developer to build and maintain dynamic, responsive web applications. The ideal candidate has strong proficiency in JavaScript, React, and front-end frameworks, with a keen eye for UI/UX. You'll collaborate with cross-functional teams to deliver high-quality code and innovative features in an agile environment.",
+    "apply": "Easy Apply"
+  },
+    {
+    "type": "Part-time",
+    "name": "Java Developer",
+    "id": 60 ,
+    "details": "We’re seeking a React Developer to build and maintain dynamic, responsive web applications. The ideal candidate has strong proficiency in JavaScript, React, and front-end frameworks, with a keen eye for UI/UX. You'll collaborate with cross-functional teams to deliver high-quality code and innovative features in an agile environment.",
+    "apply": "Easy Apply"
+  },
+    {
+    "type": "full-time",
+    "name": "Content Writer",
+    "id": 61 ,
+    "details": "We’re seeking a React Developer to build and maintain dynamic, responsive web applications. The ideal candidate has strong proficiency in JavaScript, React, and front-end frameworks, with a keen eye for UI/UX. You'll collaborate with cross-functional teams to deliver high-quality code and innovative features in an agile environment.",
+    "apply": "Easy Apply"
+  }
+]
