@@ -1,4 +1,4 @@
-import getFeedback from './getFeedback'
+import postFeedback from './postFeedback'
 
 export const handleText = (e, setData) => {
   const { name, value } = e.target
@@ -15,5 +15,5 @@ export const handleSubmit = (e, data, setData, setDBData) => {
   console.log(data)
   setData({ name: '', feedback: '' })
 
-  getFeedback(setDBData)
+  postFeedback(data, setDBData)
 }
