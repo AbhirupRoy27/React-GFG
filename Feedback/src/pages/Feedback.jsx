@@ -4,14 +4,16 @@ import { handleText, handleSubmit } from '../utills/handelform'
 
 function Feedback() {
   const [data, setData] = useState({
-    Name: '',
+    name: '',
     feedback: '',
   })
+
+  const [dbData, setDBData] = useState([])
 
   return (
     <>
       <form
-        onSubmit={(e) => handleSubmit(e, data, setData)}
+        onSubmit={(e) => handleSubmit(e, data, setData, setDBData)}
         className="flex flex-col sm:flex-row justify-around p-2 sm:p-3 gap-2 bg-slate-100 min-h-[95vh]"
       >
         <div className="bg-blue-100 sm:min-w-[59.5%] max-h-max p-3 sm:p-4 lg:p-10 rounded-lg shadow-xl">
@@ -29,8 +31,8 @@ function Feedback() {
                 placeholder="Enter Name"
                 maxLength={20}
                 onChange={(e) => handleText(e, setData)}
-                value={data.Name}
-                name="Name"
+                value={data.name}
+                name="name"
               />
               <label
                 htmlFor="feedback"
@@ -59,7 +61,7 @@ function Feedback() {
             </div>
           </div>
         </div>
-        <AllFeedback />
+        <AllFeedback dbData={dbData} setDBData={setDBData} />
       </form>
     </>
   )
